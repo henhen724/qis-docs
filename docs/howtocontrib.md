@@ -6,11 +6,11 @@ sidebar_label: How to Edit
 
 ## GitHub Account
 
-Firstly, you need a [GitHub account](https://github.com/join) both to add new pages and to edit existing ones.  You will also be able to edit pages more quickly and make larger changes to the site if you are a contributor to the documentation repository.  You can request contributor status on the [GitHub page for the docs](https://github.com/henhen724/qis-docs) by click the pull request button or emailing me, Henry Hunt, at hshunt@uchicago.edu with your GitHub username.
+Firstly, you need a [GitHub account](https://github.com/join) both to add new pages and to edit existing ones.  You will also be able to edit pages more quickly and make larger changes to the site if you are a contributor to the documentation repository.  You can request contributor status on the [GitHub page for the docs](https://github.com/henhen724/qis-docs) by clicking the pull request button or emailing me, Henry Hunt, at hshunt@uchicago.edu with your GitHub username.
 
 ## How to Edit An Existing Page
 
-To edit a page simiply click the button on the bottum left labeled "Edit this page."  This will take you to a GitHub document editor for the markdown document used to create that page.  There you can edit the page in markdown and preview what the page will look like when rendered on the site, (with the expection of the title, id, and sidebar_label, which are render as a table at the top of the page in GitHub, but only the title appear in the documentation site.)  Even if you are not a GitHub contributor, if you submit an edit any of the contributors can approve the edit and publish it to the website.
+To edit a page simiply click the button on the bottum left labeled "Edit this page."  This will take you to a GitHub document editor for the markdown document used to create that page.  There you can edit the page in markdown and preview what the page will look like when rendered on the site, (with the expection of the title, id, and sidebar_label, which are render as a table at the top of the page in GitHub, but only the title appears in the documentation site.)  Even if you are not a GitHub contributor, if you submit an edit, any of the contributors can approve the edit and publish it to the website.
 
 ## Writting in Markdown
 
